@@ -12,3 +12,5 @@ Welcome!, This is WheelFramework, a PHP MVC Framework!, The goals of this framew
 
 Author
 ======
+
+If you want to know me, you can follow me on twitter https://twitter.com/namikazebadri
