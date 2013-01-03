@@ -17,12 +17,12 @@ Status
 
 On Monday 14 January 2013, WheelFramework will be released as pre-alpha with nightly build and will be released as alpha in 20 January 2013.
 
-Resources
-=========
-
-For more information about this framework, you can visit this page http://namikazebadri.github.com/WheelFramework/
-
 Author
 ======
 
 If you want to know me, you can follow me on twitter https://twitter.com/namikazebadri
+
+Resources
+=========
+
+For more information about this framework, you can visit this page http://namikazebadri.github.com/WheelFramework/
