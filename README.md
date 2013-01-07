@@ -8,7 +8,7 @@ Welcome!, This is WheelFramework, a PHP MVC Framework!, The goals of this framew
 3. Easy to learn Framework
 4. Fast, efficient and extendable Framework
 5. Enterprise Level Framework
-6. Flexibility to adapt to developer's need and design (See PHP-EAP for example, this platform based on this framework)
+6. Flexibility to adapt to developer's need and design (See HawkEAP for example, this platform based on this framework)
 
 Now, this framework is still in development and first repository will be pushed on Monday 14 January 2013.
 
